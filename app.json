@@ -1,9 +1,9 @@
 {
-    "name": "Renamer Bot",
+    "name": "Renamer-Bot",
     "description": "Telegram File Renamer Bot ",
-    "logo": "https://graph.org/file/91ab4b346dddd0652958c.jpg",
+    "logo": "https://graph.org/file/f5a5c365b73838d4ce2e1.jpg",
     "keywords": ["Renamer Bot", "Mongo DB"],    
-    "repository": "https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT",
+    "repository": "https://github.com/Kushalhk/Rename-bot",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
@@ -39,7 +39,7 @@
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
-            "value": "pyro-botz",
+            "value": "Cluster0",
             "required": false
         },
         "START_PIC": {
