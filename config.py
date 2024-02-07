@@ -107,7 +107,7 @@ Join us :- @TSUNAMI_BOTS</b>"""
 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 /𝚕𝚢𝚛𝚒𝚌𝚜 
 
 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- 
-@TG_UPDATES1
+@TSUNAMI_BOTS
 
 𝚃𝙷𝙰𝙽𝙺 𝚈𝙾𝚄 𝙰𝙻𝙻 🫶</b>"""
     
