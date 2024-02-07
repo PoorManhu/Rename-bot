@@ -97,7 +97,7 @@ Join us :- @TSUNAMI_BOTS</b>"""
 
 𝙴𝚇𝙰𝙼𝙿𝙻𝙴 :- /𝚜𝚘𝚗𝚐 𝚏𝚊𝚍𝚎𝚍
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 @TG_UPDATED1
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 @TSUNAMI_BOTS
 
 𝚃𝙷𝙰𝙽𝙺 𝚈𝙾𝚄 🫶</b>"""
 
